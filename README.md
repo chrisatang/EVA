@@ -24,6 +24,12 @@ We are currently planning on using the freely-available Northwind database for d
 * Process the NLP data to generate a SQL query on the database (12/15)
 
 ### Minimal Requirements
+
+#### Apache OpenNLP
+##### Installation
+##### Ubuntu Linux
+Download the source file from Apache OpenNLP's website. The one our team used was `apache-opennlp-1.8.2-src.zip`. After downloading and extracting the resulting source files into the target directory, `cd` into the subdirectory that you wish to use, and run `mvn install`.
+##### Windows 10
 ### Optional Requirements
 ### Installing ExagoNLP
 ### Using ExagoNLP
