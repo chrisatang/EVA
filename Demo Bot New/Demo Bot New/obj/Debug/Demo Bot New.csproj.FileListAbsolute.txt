@@ -1,0 +1,51 @@
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\obj\Debug\Demo Bot New.csprojResolveAssemblyReference.cache
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\obj\Debug\Demo Bot New.csproj.CoreCompileInputs.cache
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Bot Application.dll.config
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Bot Application.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Bot Application.pdb
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Autofac.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Chronic.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\ClassLibrary1.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.Bot.Builder.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.Bot.Connector.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Newtonsoft.Json.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\System.Net.Http.Formatting.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\System.Web.Http.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\System.Web.Http.WebHost.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Xamarin.Forms.Core.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Xamarin.Forms.Platform.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Xamarin.Forms.Xaml.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\ClassLibrary1.pdb
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Autofac.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.Bot.Builder.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.Bot.Connector.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Newtonsoft.Json.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\System.Net.Http.Formatting.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\System.Web.Http.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\System.Web.Http.WebHost.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Xamarin.Forms.Core.pdb
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Xamarin.Forms.Core.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Xamarin.Forms.Platform.pdb
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Xamarin.Forms.Xaml.pdb
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Xamarin.Forms.Xaml.xml
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\obj\Debug\Bot Application.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\obj\Debug\Bot Application.pdb
