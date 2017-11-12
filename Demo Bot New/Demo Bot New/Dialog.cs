@@ -5,9 +5,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 
 
-//Supports basic dialog through bot emulator interface, conditionals check incoming text
-//and control the data returned and responses. This dialog class will control the back-end
-//algorithm to generate SQL queries and return requested data in later stages.
+/* Returns valid output for user input via Microsoft Bot Framework */
 namespace Bot_Application
 {
     [Serializable]
