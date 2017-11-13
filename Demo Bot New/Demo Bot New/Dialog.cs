@@ -20,10 +20,12 @@ namespace Bot_Application
         {
             var activity = await result as Activity;
 
-            string in_text = activity.Text.ToLower();
-            if (activity.Text.ToLower() == "hi" || activity.Text.ToLower() == "hello" || activity.Text.ToLower() == "yo")
+            string inputText = activity.Text.ToLower();
+            if (inputText == "hi" || inputText == "hello" || inputText == "yo")
+            {
                 await context.PostAsync($"What's good dog ask me a question");
-            else if (activity.Text.ToLower().Contains("how many professors"))
+            }
+            else if (inputText.Contains("how many professors"))
             {
                 Professors profs = new Professors();
                 await context.PostAsync($"I know about { profs.get_professor_count() } professors.");
