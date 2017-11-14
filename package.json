@@ -1,0 +1,8 @@
+{
+  "name": "Exago-Voice-Assistant",
+  "version": "0.0.1",
+  "description": "The purpose of this project is to interpret what the user is asking, form a query against the database, and return a result. If there is uncertainty in the question, then ask a question back to the user and learn the answer going forward.",
+  "dependencies": {
+    "express": "file:node_modules/express"
+  }
+}
