@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chris-j-tang/EVA#readme",
   "dependencies": {
-    "botbuilder": "^3.11.0"
+    "botbuilder": "^3.11.0",
+    "restify": "^6.3.2"
   }
 }
