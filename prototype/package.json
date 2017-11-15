@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chris-j-tang/EVA/issues"
   },
-  "homepage": "https://github.com/chris-j-tang/EVA#readme"
+  "homepage": "https://github.com/chris-j-tang/EVA#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0"
+  }
 }
