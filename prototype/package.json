@@ -1,0 +1,23 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "A voice assistant bot that uses NLP to reply to user inquiries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-j-tang/EVA.git"
+  },
+  "author": "Christine Tang <chris.jue.tang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chris-j-tang/EVA/issues"
+  },
+  "homepage": "https://github.com/chris-j-tang/EVA#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.3.2"
+  }
+}
