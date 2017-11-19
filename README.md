@@ -32,4 +32,28 @@ Download the source file from Apache OpenNLP's website. The one our team used wa
 <!-- #### NLPTK -->
 ### Optional Requirements
 ### Installing ExagoNLP
+### Installing MySQL-Python Connector:
+* Install python 3.4 from windows here: https://www.python.org/downloads/release/python-340/
+* Must use install for "all users"
+* Add the location of this application to your system's PATH
+* Install MySQL driver from https://dev.mysql.com/downloads/connector/python/
+
+### To generate a Northwind database in MySQL from script:
+*Install the MySQL app (stick with default settings, and configure as a development machine):
+https://dev.mysql.com/downloads/installer/
+
+* Use this link to download the script to build a Northwind Database:
+https://www.aspsnippets.com/Articles/Download-and-Install-Microsoft-Northwind-Sample-database-in-MySql.aspx
+(select Northwind.MySQL5.sql)
+* Open script in a text editor, copy the contents to the MySQL instance and execute
+* *There's a small SQL syntax error on line 4601, the line GROUP BY City WITH ROLLUP;
+to fix it just remove WITH ROLLUP and the script should execute fully
+
+* To verify the database has been built properly, open a new tab for querying and run a small query (ex):
+USE northwind;
+SHOW tables;
+SHOW columns FROM employees;
+
+* (Should generate two tables as results, with all database tables
+   listed in the first and each employee entry columns in the second)
 ### Using ExagoNLP
