@@ -4,9 +4,6 @@
 * Proposal
 * Goals/Deliverables
 * Minimal Requirements
-* Optional Requirements
-* Installing ExagoNLP
-* Using ExagoNLP
 
 ### Proposal
 Exago Business Intelligence is a software application that allows users to easily create their own reports and visualizations, and do analysis on the data that is being accessed.  A natural extension to this is NLP, where a user can ‘ask’ a question in either typed or voice input, and get an answer back based on the data in either displayed or voice (or potentially others such as SMS, email, etc.) output. 
@@ -26,10 +23,9 @@ We are currently planning on using the freely-available Northwind database for d
 ### Minimal Requirements
 ### Installing MySQL-Python Connector:
 #### Windows 10
-* Install python 3.4 for Windows 10 [here](https://www.python.org/downloads/release/python-340/):
-* Must use install for "all users"
+* Install [Python 3.4]((https://www.python.org/downloads/release/python-340/) for Windows 10 for all users
 * Add the location of this application to your system's PATH
-* Install MySQL driver from https://dev.mysql.com/downloads/connector/python/
+* Install [MySQL driver](https://dev.mysql.com/downloads/connector/python/)
 
 ### To generate a Northwind database in MySQL from script:
 *Install the MySQL app (stick with default settings, and configure as a development machine):
