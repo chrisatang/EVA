@@ -24,16 +24,9 @@ We are currently planning on using the freely-available Northwind database for d
 * Process the NLP data to generate a SQL query on the database (12/15)
 
 ### Minimal Requirements
-#### Apache OpenNLP
-##### Ubuntu Linux
-Download the source file from Apache OpenNLP's website. The one our team used was `apache-opennlp-1.8.2-src.zip`. After downloading and extracting the resulting source files into the target directory, `cd` into the subdirectory that you wish to use, and run `mvn install`.
-##### Windows 10
-
-<!-- #### NLPTK -->
-### Optional Requirements
-### Installing ExagoNLP
 ### Installing MySQL-Python Connector:
-* Install python 3.4 from windows here: https://www.python.org/downloads/release/python-340/
+#### Windows 10
+* Install python 3.4 for Windows 10 [here](https://www.python.org/downloads/release/python-340/):
 * Must use install for "all users"
 * Add the location of this application to your system's PATH
 * Install MySQL driver from https://dev.mysql.com/downloads/connector/python/
@@ -56,4 +49,3 @@ SHOW columns FROM employees;
 
 * (Should generate two tables as results, with all database tables
    listed in the first and each employee entry columns in the second)
-### Using ExagoNLP
