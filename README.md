@@ -28,12 +28,9 @@ We are currently planning on using the freely-available Northwind database for d
 * Install [MySQL driver](https://dev.mysql.com/downloads/connector/python/)
 
 ### To generate a Northwind database in MySQL from script:
-*Install the MySQL app (stick with default settings, and configure as a development machine):
-https://dev.mysql.com/downloads/installer/
+*Install the [MySQL application](https://dev.mysql.com/downloads/installer/) (stick with default settings, and configure as a development machine)
 
-* Use this link to download the script to build a Northwind Database:
-https://www.aspsnippets.com/Articles/Download-and-Install-Microsoft-Northwind-Sample-database-in-MySql.aspx
-(select Northwind.MySQL5.sql)
+* Download the [script](https://www.aspsnippets.com/Articles/Download-and-Install-Microsoft-Northwind-Sample-database-in-MySql.aspx) to build a Northwind Database (select Northwind.MySQL5.sql)
 * Open script in a text editor, copy the contents to the MySQL instance and execute
 * *There's a small SQL syntax error on line 4601, the line GROUP BY City WITH ROLLUP;
 to fix it just remove WITH ROLLUP and the script should execute fully
