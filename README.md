@@ -21,7 +21,15 @@ We are currently planning on using the freely-available Northwind database for d
 * Process the NLP data to generate a SQL query on the database (12/15)
 
 ### Minimal Requirements
-### Installing MySQL-Python Connector:
+### Microsoft Bot Framework Emulator
+#### Ubuntu
+* Build from [source](https://github.com/Microsoft/BotFramework-Emulator.git)
+* Install the Node packages (this will take a while):
+`npm install`
+* Build the Bot Emulator: `npm run build`
+* Run the Bot Emulator: `npm run start`
+
+### MySQL-Python Connector:
 #### Windows 10
 * Install [Python 3.4]((https://www.python.org/downloads/release/python-340/) for Windows 10 for all users
 * Add the location of this application to your system's PATH
