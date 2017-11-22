@@ -17,8 +17,21 @@ except mysql.connector.Error as err:
 
 else:
     cursor = cnx.cursor()
+    cmd = 3
 
-    query = ("SHOW columns FROM employees;")
+    q1 = ("SHOW tables")
+    q2 = ("SHOW columns FROM employees;")
+    q3 = ("SELECT c.CustomerID,c.City FROM customers c WHERE c.City = 'Boise'")
+
+    if(cmd == 1):
+      query = q1
+    if(cmd == 2):
+      query = q2
+    if(cmd == 3):
+      query = q3
+    else:
+      query = q1
+
     cursor.execute(query)
     for col in cursor:
         print(col,'\n')
