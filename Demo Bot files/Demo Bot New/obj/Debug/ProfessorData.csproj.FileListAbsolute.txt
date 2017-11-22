@@ -1,0 +1,6 @@
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Debug\ClassLibrary1.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\bin\Debug\ClassLibrary1.pdb
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\obj\Debug\ProfessorData.csprojResolveAssemblyReference.cache
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\obj\Debug\ProfessorData.csproj.CoreCompileInputs.cache
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\obj\Debug\ClassLibrary1.dll
+C:\Users\gebbij2\Dropbox\RCOS NLP\Demo Bot New\Demo Bot New\obj\Debug\ClassLibrary1.pdb
