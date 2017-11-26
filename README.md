@@ -17,8 +17,9 @@ We are currently planning on using the freely-available Northwind database for d
 ## Goals/Deliverables
 * Accessing and understanding NLP technology (9/31)
 * Form a cohesive understanding of linguistics (10/15)
-* Get NLP results as usable data in the program (11/1)
+* Integrate NLP software to Bot (12/3)
 * Process the NLP data to generate a SQL query on the database (12/15)
+* Add voice recognition to Microsoft Bot Framework (Possibly next semester)
 
 ## Minimal Requirements
 ### Microsoft Bot Framework Emulator
