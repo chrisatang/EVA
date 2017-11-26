@@ -23,12 +23,14 @@ We are currently planning on using the freely-available Northwind database for d
 ## Minimal Requirements
 ### Microsoft Bot Framework Emulator
 #### Ubuntu
+* Run the bot: `node app.js` (In the bot directory)
 * Build from [source](https://github.com/Microsoft/BotFramework-Emulator.git)
 * Install the Node packages (this will take a while):
 `npm install`
 * Build the Bot Emulator: `npm run build`
 * Run the Bot Emulator: `npm run start`
 * Set the endpoint to `http://localhost:3978/api/messages` -- this is the default debugging endpoint for a bot running on localhost
+* Type in input
 ### MySQL-Python Connector:
 #### Windows 10
 * Install [Python 3.4]((https://www.python.org/downloads/release/python-340/) for Windows 10 for all users
