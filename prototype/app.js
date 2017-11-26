@@ -15,8 +15,11 @@ var connector = new builder.ChatConnector({
 
 // Listen to messages from client
 server.post('/api/messages', connector.listen());
+// TODO: store functions in exterior .JS file (to be created)
 
+// Call a series of functions depending on user input
+var userInput = session.message.text;
 // Receive messages from the user and respond by echoing the user's messages
 var bot = new builder.UniversalBot(connector, function (session) {
-    session.send("You said: %s", session.message.text);
+    session.send("You said: %s", userInput);
 });
