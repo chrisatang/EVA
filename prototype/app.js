@@ -17,6 +17,19 @@ var connector = new builder.ChatConnector({
 server.post('/api/messages', connector.listen());
 
 // Receive messages from the user and respond by echoing the user's messages
-var bot = new builder.UniversalBot(connector, function (session) {
-    session.send("You said: %s", session.message.text);
-});
+var bot = new builder.UniversalBot(connector);
+
+bot.dialog('/',
+    function(session){
+        session.beginDialog()
+    }
+);
+
+bot.dialog("RequestOrder",[
+    function(session){
+        builder.Prompts.texts(session,"Welcome to EVA how can I help you");
+    },
+    function(session,results){
+        session.endDialog("You said ${results.response}");
+    }
+])
